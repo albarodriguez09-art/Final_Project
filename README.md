@@ -1,9 +1,10 @@
 # Final_Project
 Final Project Programming I 
-Group Members: Melanie Paredes Mendoza (username: melanieparedesmendoza)
-Alba Rodríguez Alegre (username: albarodriguez09-art)
-Núria Bernades Cuenca (username: nuriabc9)
-Bouchra Aadadouch Ech-chyguer (username: bouchra-aadadouch)
+Group Members: 
+* Melanie Paredes Mendoza (username: melanieparedesmendoza)
+* Alba Rodríguez Alegre (username: albarodriguez09-art)
+* Núria Bernades Cuenca (username: nuriabc9)
+* Bouchra Aadadouch Ech-chyguer (username: bouchra-aadadouch)
 
 
 Download links to the datasets:
